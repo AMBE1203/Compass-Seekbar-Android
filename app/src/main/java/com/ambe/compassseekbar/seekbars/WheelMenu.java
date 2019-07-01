@@ -9,6 +9,9 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
+/**
+ * Created by AMBE on 10/25/2018 at 5:26 PM.
+ */
 public class WheelMenu extends AppCompatImageView {
 
     private Bitmap imageOriginal, imageScaled;     //variables for original and re-sized image

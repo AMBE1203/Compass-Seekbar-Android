@@ -16,6 +16,9 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * Created by AMBE on 10/25/2018 at 5:26 PM.
+ */
 public class UnitWheelView extends View {
     private final String TAG = UnitWheelView.class.getSimpleName();
 
